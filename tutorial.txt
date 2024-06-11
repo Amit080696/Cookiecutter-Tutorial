@@ -3,7 +3,7 @@ package projects and more.
 
 
 1. pip install cookiecutter
-2. cookiecutter gh:audreyfeldroy/cookiecutter-pypackage     #just paste terminal and run 
+2. cookiecutter gh:audreyfeldroy/cookiecutter-pypackage     #just paste in terminal and run 
 
   [1/14] full_name (Audrey Roy Greenfeld): Amit Baghel
   [2/14] email (audreyr@example.com): amit.bharat999@gmail.com
